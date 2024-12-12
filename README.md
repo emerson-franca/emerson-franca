@@ -17,9 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Senior Front-end developer
-- Css and web animations Lover
-- Always learning new Frontend Tools
+- A passionate Self-taught Senior Software Engineer
 
 <br><br>
 
